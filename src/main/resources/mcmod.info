@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kbboosterauto",
+  "name": "KB Booster Auto",
+  "description": "Executa automaticamente o Sprint Reset apos acertar jogadores no PvP (mod apenas cliente).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KB Booster"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
